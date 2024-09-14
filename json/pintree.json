@@ -6,13 +6,473 @@
     "children": [
       {
         "type": "folder",
-        "addDate": 1627659320863,
-        "title": "seven",
+        "addDate": 1726279017967,
+        "title": "开源",
         "children": [
           {
             "type": "folder",
-            "addDate": 1627659320864,
-            "title": "工具集",
+            "addDate": 1726279066986,
+            "title": "安卓",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1726279382009,
+                "title": "自动化测试",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1671764092816,
+                    "title": "Airtest/README_zh.md at master · AirtestProject/Airtest · GitHub",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/AirtestProject/Airtest/blob/master/README_zh.md"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1671766088776,
+                    "title": "GitHub - alipay/SoloPi: SoloPi 自动化测试工具",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/alipay/SoloPi"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1671786978098,
+                    "title": "GitHub - AirtestProject/Airtest: UI Automation Framework for Games and Apps",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/AirtestProject/Airtest"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1671863237372,
+                    "title": "RobotiumTech/robotium: Android UI Testing",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/RobotiumTech/robotium"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1604588498163,
+                "title": "窃取信息app",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/wszf/androrat"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1671763234631,
+            "title": "GitHub - joeycastillo/The-Open-Book",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/joeycastillo/The-Open-Book"
+          },
+          {
+            "type": "link",
+            "addDate": 1671764659533,
+            "title": "JPL开源探测车项目",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/nasa-jpl/open-source-rover"
+          },
+          {
+            "type": "folder",
+            "addDate": 1726279799705,
+            "title": "开源游戏",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1671763301392,
+                "title": "植物大战僵尸",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle"
+              },
+              {
+                "type": "link",
+                "addDate": 1671762508928,
+                "title": "破碎像素地牢",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/00-Evan/shattered-pixel-dungeon"
+              },
+              {
+                "type": "link",
+                "addDate": 1671762532262,
+                "title": "Game Boy 复古冒险游戏创建器",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chrismaltby/gb-studio"
+              },
+              {
+                "type": "link",
+                "addDate": 1671762771880,
+                "title": "中文 DOS 游戏合集",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/rwv/chinese-dos-games"
+              },
+              {
+                "type": "link",
+                "addDate": 1671763445953,
+                "title": "暗示 简约文字冒险游戏",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/doublespeakgames/adarkroom"
+              },
+              {
+                "type": "link",
+                "addDate": 1671763899999,
+                "title": "shapez 开源基地建设游戏",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/tobspr-games/shapez.io"
+              },
+              {
+                "type": "link",
+                "addDate": 1671764788608,
+                "title": "Mindustry 自动化塔防 RTS",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Anuken/Mindustry"
+              },
+              {
+                "type": "link",
+                "addDate": 1671765303186,
+                "title": "GitHub - electronicarts/CnC_Remastered_Collection",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/electronicarts/CnC_Remastered_Collection"
+              },
+              {
+                "type": "link",
+                "addDate": 1671777127780,
+                "title": "游戏合集",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/leereilly/games"
+              },
+              {
+                "type": "link",
+                "addDate": 1671777335849,
+                "title": "BrowserQuest 是一个 HTML5/JavaScript 多人游戏实验",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/mozilla/BrowserQuest"
+              },
+              {
+                "type": "link",
+                "addDate": 1671778066172,
+                "title": "GitHub - scarsty/kys-cpp: 《金庸群侠传》c++复刻版，已完工",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/scarsty/kys-cpp"
+              },
+              {
+                "type": "link",
+                "addDate": 1671778238611,
+                "title": "Cytopia 一款城市建设模拟游戏",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/CytopiaTeam/Cytopia"
+              },
+              {
+                "type": "link",
+                "addDate": 1671778338233,
+                "title": "大灾变——黑暗来临。这是一款以世界末日为背景的回合制生存游戏。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/CleverRaven/Cataclysm-DDA"
+              },
+              {
+                "type": "link",
+                "addDate": 1671778372852,
+                "title": "GitHub - jynew/jynew: 开源武侠RPG游戏开发框架",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/jynew/jynew"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726278081063,
+        "title": "个人网站",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1726280577150,
+            "title": "个人博客",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726280955731,
+                "title": "技术博客",
+                "icon": "https://logo.clearbit.com/seven-it-work.github.io",
+                "url": "https://seven-it-work.github.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280960834,
+                "title": "技术博客",
+                "icon": "https://logo.clearbit.com/my-blog-alpha.vercel.app",
+                "url": "https://my-blog-alpha.vercel.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280964545,
+                "title": "技术博客",
+                "icon": "https://logo.clearbit.com/seven-blog.netlify.app",
+                "url": "https://seven-blog.netlify.app/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278579935,
+            "title": "导航网",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1710322161461,
+                "title": "导航网Github",
+                "icon": "https://logo.clearbit.com/seven-it-work.github.io",
+                "url": "https://seven-it-work.github.io/navigation/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714827137890,
+                "title": "导航网gitlab",
+                "icon": "https://logo.clearbit.com/navigation-sevenyjl1-f259d7bec56b2f9660b85cdc486687c24c979407fa.gitlab.io",
+                "url": "https://navigation-sevenyjl1-f259d7bec56b2f9660b85cdc486687c24c979407fa.gitlab.io/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725186563003,
+                "title": "导航网netlify",
+                "icon": "https://logo.clearbit.com/seven-navigation.netlify.app",
+                "url": "https://seven-navigation.netlify.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726281004563,
+                "title": "Pintree",
+                "icon": "https://logo.clearbit.com/seven-it-work.github.io",
+                "url": "https://seven-it-work.github.io/pintree/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278440783,
+            "title": "部署资源",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1726278614590,
+                "title": "腾讯云",
+                "children": []
+              },
+              {
+                "type": "folder",
+                "addDate": 1726278610815,
+                "title": "阿里云",
+                "children": []
+              },
+              {
+                "type": "folder",
+                "addDate": 1726278455823,
+                "title": "华为云",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1635146325930,
+                    "title": "对象存储服务-控制台",
+                    "icon": "https://logo.clearbit.com/console.huaweicloud.com",
+                    "url": "https://console.huaweicloud.com/console/?region=cn-north-4#/obs/manage/seven01/object/list"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1603784577695,
+            "title": "我的工作台 - Gitee.com",
+            "icon": "https://logo.clearbit.com/gitee.com",
+            "url": "https://gitee.com/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1726280929344,
+            "title": "个人生活网",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726280913685,
+                "title": "",
+                "icon": "https://logo.clearbit.com/love.seven.cn",
+                "url": "https://love.seven.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280932690,
+                "title": "生活博客 - 段姐&佳哥",
+                "icon": "https://logo.clearbit.com/love-source.vercel.app",
+                "url": "https://love-source.vercel.app/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726278073008,
+        "title": "工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1726278794359,
+            "title": "翻译",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1624846536274,
+                "title": "翻译",
+                "icon": "https://logo.clearbit.com/translate.google.com",
+                "url": "https://translate.google.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278775001,
+            "title": "AI工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1713015112398,
+                "title": "通义千问",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee191LSqt&sessionId=253ad1cd099d4c858afe0779d73ef626"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280676672,
+                "title": "Chatgpt在线网页版-永久免费使用！",
+                "icon": "https://logo.clearbit.com/ai.1688fa.com",
+                "url": "https://ai.1688fa.com/#/chat/1002"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280776619,
+                "title": "Vega AI 创作平台",
+                "icon": "https://logo.clearbit.com/vegaai.net",
+                "url": "https://vegaai.net/r"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280836328,
+                "title": "免费ChatGPT",
+                "icon": "https://logo.clearbit.com/fgptsss.aifree.site",
+                "url": "https://fgptsss.aifree.site/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280843811,
+                "title": "Awesome Free ChatGPT | awesome-free-chatgpt",
+                "icon": "https://logo.clearbit.com/chatgpt.quickso.cn",
+                "url": "https://chatgpt.quickso.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726280852073,
+                "title": "ChatGPT 免费网站在线体验列表导航站",
+                "icon": "https://logo.clearbit.com/lzw.me",
+                "url": "https://lzw.me/x/chatgpt-sites/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278759271,
+            "title": "视频工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1630210031709,
+                "title": "好看创作平台",
+                "icon": "https://logo.clearbit.com/dream.haokan.com",
+                "url": "https://dream.haokan.com/author/production"
+              },
+              {
+                "type": "link",
+                "addDate": 1702201227410,
+                "title": "4k电影网",
+                "icon": "https://logo.clearbit.com/webhd.top",
+                "url": "https://webhd.top/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278750602,
+            "title": "局域网工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1629250363002,
+                "title": "局域网通讯",
+                "icon": "https://logo.clearbit.com/www.wlantool.com",
+                "url": "http://www.wlantool.com/ws/index.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278724855,
+            "title": "房屋设计",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1603643729366,
+                "title": "云设计工具天来汇景",
+                "icon": "https://logo.clearbit.com/yun.kujiale.com",
+                "url": "https://yun.kujiale.com/tool/h5/diy?designid=3FO4CL20HLMR&em=0&redirecturl=https://www.kujiale.com/pcenter/design/3FO4CL20HLMR/pano&kpm=qkWL.400845c7fccfe30b.2f02e2f.1603638881047"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278714057,
+            "title": "网盘工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1584686884959,
+                "title": "蓝奏云",
+                "icon": "https://logo.clearbit.com/up.woozooo.com",
+                "url": "https://up.woozooo.com/mydisk.php"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278703618,
+            "title": "图片处理",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726280804391,
+                "title": "圖像著色器 |免費批量著色和恢復舊照片",
+                "icon": "https://logo.clearbit.com/imagecolorizer.com",
+                "url": "https://imagecolorizer.com/cn"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278683722,
+            "title": "前端资源",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1694679391350,
+                "title": "共滴 | 自 2009 年以来一直为网络专业人士提供灵感并了解最新动态",
+                "icon": "https://logo.clearbit.com/tympanus.net",
+                "url": "https://tympanus.net/codrops/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278627622,
+            "title": "开发工具",
             "children": [
               {
                 "type": "link",
@@ -37,13 +497,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1603895769454,
-                "title": "vpn",
-                "icon": "https://logo.clearbit.com/ns.cdnyunjs.com",
-                "url": "https://ns.cdnyunjs.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1604893198089,
                 "title": "在线文本差异对比,文本比对、文本比较工具",
                 "icon": "https://logo.clearbit.com/www.jq22.com",
@@ -65,13 +518,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1606557899111,
-                "title": "https://www.baidu.com/link?url=dRyll_P7C3fepoUp5dggYOrsPIPgHshbadtzL9c2lUdduxSTe3WnFPrLCgkWjJml&wd=&eqid=9dd34f8400083e8a000000065fc220c5",
-                "icon": "https://logo.clearbit.com/www.baidu.com",
-                "url": "https://www.baidu.com/link?url=dRyll_P7C3fepoUp5dggYOrsPIPgHshbadtzL9c2lUdduxSTe3WnFPrLCgkWjJml&wd=&eqid=9dd34f8400083e8a000000065fc220c5"
-              },
-              {
-                "type": "link",
                 "addDate": 1607914754086,
                 "title": "高精度IP地址查询|查IP|IP地址查询|IP定位|精确定位|百度高精度IP-www.chaipip.com",
                 "icon": "https://logo.clearbit.com/www.chaipip.com",
@@ -86,444 +532,150 @@
               },
               {
                 "type": "link",
-                "addDate": 1694679391350,
-                "title": "共滴 | 自 2009 年以来一直为网络专业人士提供灵感并了解最新动态",
-                "icon": "https://logo.clearbit.com/tympanus.net",
-                "url": "https://tympanus.net/codrops/"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1627659320864,
-            "title": "个人开发空间",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1603784577695,
-                "title": "我的工作台 - Gitee.com",
-                "icon": "https://logo.clearbit.com/gitee.com",
-                "url": "https://gitee.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1604389137530,
                 "title": "流程图-件-迅捷画图",
                 "icon": "https://logo.clearbit.com/www.liuchengtu.com",
                 "url": "https://www.liuchengtu.com/process"
-              },
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1603895769454,
+            "title": "vpn",
+            "icon": "https://logo.clearbit.com/ns.cdnyunjs.com",
+            "url": "https://ns.cdnyunjs.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726278069191,
+        "title": "学习",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1726278893102,
+            "title": "算法学习资料",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1637142738665,
+                "title": "可视化的数据结构和算法教学 | U396",
+                "icon": "https://logo.clearbit.com/www.u396.com",
+                "url": "http://www.u396.com/collection/data-structure-visualizations"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278874609,
+            "title": "互联网学习资料",
+            "children": [
               {
                 "type": "folder",
-                "addDate": 1627659320865,
-                "title": "个人网页集合",
+                "addDate": 1726278969814,
+                "title": "数据库学习",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1611112622382,
-                    "title": "Nacos",
-                    "icon": "https://logo.clearbit.com/yjl.cool",
-                    "url": "http://yjl.cool:8848/nacos/#/configurationManagement?dataId=&group=&appName=&serverId=&namespace=test&pageSize=&pageNo=&namespaceShowName=test"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1611112649798,
-                    "title": "个人博客",
-                    "icon": "https://logo.clearbit.com/blog.yjl.cool",
-                    "url": "http://blog.yjl.cool/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1611112662094,
-                    "title": "个人工具 tools.yjl.cool",
-                    "icon": "https://logo.clearbit.com/tools.yjl.cool",
-                    "url": "http://tools.yjl.cool/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1611112671510,
-                    "title": "个人首页 yjl.cool",
-                    "icon": "https://logo.clearbit.com/yjl.cool",
-                    "url": "http://yjl.cool/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1611196131598,
-                    "title": "分享文件器",
-                    "icon": "https://logo.clearbit.com/sfile.yjl.cool",
-                    "url": "http://sfile.yjl.cool/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1622512609134,
-                    "title": "笔记快速搜索",
-                    "icon": "https://logo.clearbit.com/10.202.80.255",
-                    "url": "http://10.202.80.255:18080/#/"
+                    "addDate": 1603088129185,
+                    "title": "【PG】PG在linux上的在线和离线安装_ITPUB博客",
+                    "icon": "https://logo.clearbit.com/blog.itpub.net",
+                    "url": "http://blog.itpub.net/26736162/viewspace-2670660/"
                   }
                 ]
               },
               {
                 "type": "folder",
-                "addDate": 1635146345400,
-                "title": "云",
+                "addDate": 1726278908287,
+                "title": "java学习",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1635146325930,
-                    "title": "对象存储服务-控制台",
-                    "icon": "https://logo.clearbit.com/console.huaweicloud.com",
-                    "url": "https://console.huaweicloud.com/console/?region=cn-north-4#/obs/manage/seven01/object/list"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1627659320865,
-            "title": "学习",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1604044785384,
-                "title": "SpringBoot的启动过程",
-                "icon": "https://logo.clearbit.com/fangjian0423.github.io",
-                "url": "http://fangjian0423.github.io/2017/04/30/springboot-startup-analysis/"
-              },
-              {
-                "type": "link",
-                "addDate": 1604051885770,
-                "title": "Spring5源码构建编译",
-                "icon": "https://logo.clearbit.com/juejin.im",
-                "url": "https://juejin.im/post/6844903938081161230"
-              },
-              {
-                "type": "link",
-                "addDate": 1604588498163,
-                "title": "GitHub-shanghai / zhangxian / androrat",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/wszf/androrat"
-              },
-              {
-                "type": "link",
-                "addDate": 1605517441152,
-                "title": "Spring Boot 微服务应用集成Prometheus + Grafana 实现监控告警",
-                "icon": "https://logo.clearbit.com/juejin.im",
-                "url": "https://juejin.im/post/6844904052417904653"
-              },
-              {
-                "type": "link",
-                "addDate": 1605866210553,
-                "title": " 周报 · GitLab",
-                "icon": "https://logo.clearbit.com/gitlab.gridsum.com",
-                "url": "https://gitlab.gridsum.com/TechnologySharingCenter/back-end/weeklyreport/-/issues"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1600093783064,
-            "title": "Download Asphalt 9: Legends 2.4.6a MOD apk (RUS). Continuation of the legendary series of asphalt for android",
-            "icon": "https://logo.clearbit.com/en.androeed.ru",
-            "url": "https://en.androeed.ru/files/asphalt-9-legends.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1599923576421,
-            "title": "努比亚Z17-Z17S-Z17mini 刷入MIUI10系统刷机教程-ROM乐园官网",
-            "icon": "https://logo.clearbit.com/www.romleyuan.com",
-            "url": "http://www.romleyuan.com/news/readnews?newsid=512"
-          },
-          {
-            "type": "link",
-            "addDate": 1595670972916,
-            "title": "用户脚本",
-            "icon": "https://logo.clearbit.com/greasyfork.org",
-            "url": "https://greasyfork.org/zh-CN/scripts"
-          },
-          {
-            "type": "link",
-            "addDate": 1593857407892,
-            "title": "Image Colorizer - Colorize Black and White Photo",
-            "icon": "https://logo.clearbit.com/imagecolorizer.com",
-            "url": "https://imagecolorizer.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1585451313142,
-            "title": "Pocket",
-            "icon": "https://logo.clearbit.com/app.getpocket.com",
-            "url": "https://app.getpocket.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1584686884959,
-            "title": "蓝奏云",
-            "icon": "https://logo.clearbit.com/up.woozooo.com",
-            "url": "https://up.woozooo.com/mydisk.php"
-          },
-          {
-            "type": "link",
-            "addDate": 1559483437327,
-            "title": "语记",
-            "icon": "https://logo.clearbit.com/www.iyuji.cn",
-            "url": "http://www.iyuji.cn/iyuji/recordList"
-          },
-          {
-            "type": "folder",
-            "addDate": 1627659320866,
-            "title": "部署安装",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1603088129185,
-                "title": "【PG】PG在linux上的在线和离线安装_ITPUB博客",
-                "icon": "https://logo.clearbit.com/blog.itpub.net",
-                "url": "http://blog.itpub.net/26736162/viewspace-2670660/"
-              },
-              {
-                "type": "link",
-                "addDate": 1603175186888,
-                "title": "zookeeper集群搭建",
-                "icon": "https://logo.clearbit.com/juejin.im",
-                "url": "https://juejin.im/post/6844903683512074253"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1603643729366,
-            "title": "云设计工具天来汇景",
-            "icon": "https://logo.clearbit.com/yun.kujiale.com",
-            "url": "https://yun.kujiale.com/tool/h5/diy?designid=3FO4CL20HLMR&em=0&redirecturl=https://www.kujiale.com/pcenter/design/3FO4CL20HLMR/pano&kpm=qkWL.400845c7fccfe30b.2f02e2f.1603638881047"
-          },
-          {
-            "type": "folder",
-            "addDate": 1627659320866,
-            "title": "书",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1606893319244,
-                "title": "电子书 使用技巧",
-                "icon": "https://logo.clearbit.com/dianbook.cc",
-                "url": "http://dianbook.cc/forum.php?mod=forumdisplay&fid=101"
-              },
-              {
-                "type": "link",
-                "addDate": 1606893334364,
-                "title": "点书网",
-                "icon": "https://logo.clearbit.com/dianbook.cc",
-                "url": "http://dianbook.cc/plugin.php?id=newtop_waterfall:newtop_waterfall"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1627359294517,
-            "title": "原创作品-QQ前线乐园",
-            "icon": "https://logo.clearbit.com/www.yijingying.com",
-            "url": "https://www.yijingying.com/original"
-          },
-          {
-            "type": "link",
-            "addDate": 1628472473440,
-            "title": "互联网资源新大陆，资源最全的网站，找资源，就找优百课栈 - 优百课栈 资源新大陆!",
-            "icon": "https://logo.clearbit.com/ubkz.com",
-            "url": "https://ubkz.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1629250363002,
-            "title": "局域网通讯",
-            "icon": "https://logo.clearbit.com/www.wlantool.com",
-            "url": "http://www.wlantool.com/ws/index.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1630210031709,
-            "title": "好看创作平台",
-            "icon": "https://logo.clearbit.com/dream.haokan.com",
-            "url": "https://dream.haokan.com/author/production"
-          },
-          {
-            "type": "folder",
-            "addDate": 1635127289296,
-            "title": "代码仓库",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1635127289296,
-                "title": "知识库",
-                "children": [
+                    "addDate": 1604044785384,
+                    "title": "SpringBoot的启动过程",
+                    "icon": "https://logo.clearbit.com/fangjian0423.github.io",
+                    "url": "http://fangjian0423.github.io/2017/04/30/springboot-startup-analysis/"
+                  },
                   {
                     "type": "link",
-                    "addDate": 1635127269561,
-                    "title": "knowledge-points - 文件",
-                    "icon": "https://logo.clearbit.com/devcloud.cn-north-4.huaweicloud.com",
-                    "url": "https://devcloud.cn-north-4.huaweicloud.com/codehub/project/30c8edfafeb14cf2aff3e3b322c61237/codehub/1715038/home?ref=master"
+                    "addDate": 1604051885770,
+                    "title": "Spring5源码构建编译",
+                    "icon": "https://logo.clearbit.com/juejin.im",
+                    "url": "https://juejin.im/post/6844903938081161230"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1605517441152,
+                    "title": "Spring Boot 微服务应用集成Prometheus + Grafana 实现监控告警",
+                    "icon": "https://logo.clearbit.com/juejin.im",
+                    "url": "https://juejin.im/post/6844904052417904653"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1603175186888,
+                    "title": "zookeeper集群搭建",
+                    "icon": "https://logo.clearbit.com/juejin.im",
+                    "url": "https://juejin.im/post/6844903683512074253"
                   }
                 ]
               },
               {
                 "type": "link",
-                "addDate": 1638322570549,
-                "title": "对象存储服务-控制台",
-                "icon": "https://logo.clearbit.com/console.huaweicloud.com",
-                "url": "https://console.huaweicloud.com/console/?region=cn-north-4&locale=zh-cn#/obs/manage/seven01/object/list"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1637142738665,
-            "title": "可视化的数据结构和算法教学 | U396",
-            "icon": "https://logo.clearbit.com/www.u396.com",
-            "url": "http://www.u396.com/collection/data-structure-visualizations"
-          },
-          {
-            "type": "folder",
-            "addDate": 1652598356765,
-            "title": "game",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1652598344246,
-                "title": "植物僵尸相关下载",
-                "icon": "https://logo.clearbit.com/jspvz.com",
-                "url": "http://jspvz.com/ResDownload/1_PC_C.htm#v1.2.0.1073jq"
+                "addDate": 1628472473440,
+                "title": "互联网资源新大陆，资源最全的网站，找资源，就找优百课栈 - 优百课栈 资源新大陆!",
+                "icon": "https://logo.clearbit.com/ubkz.com",
+                "url": "https://ubkz.com/"
               },
               {
                 "type": "link",
-                "addDate": 1671762508928,
-                "title": "GitHub - 00-Evan/shattered-pixel-dungeon: Traditional roguelike game with pixel-art graphics and simple interface",
+                "addDate": 1671849663035,
+                "title": "设计模式",
                 "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/00-Evan/shattered-pixel-dungeon"
-              },
-              {
-                "type": "link",
-                "addDate": 1671762532262,
-                "title": "GitHub - chrismaltby/gb-studio: A quick and easy to use drag and drop retro game creator for your favourite handheld video game system",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/chrismaltby/gb-studio"
-              },
-              {
-                "type": "link",
-                "addDate": 1671762771880,
-                "title": "GitHub - rwv/chinese-dos-games: 🎮 Chinese DOS games collections.",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/rwv/chinese-dos-games"
-              },
-              {
-                "type": "link",
-                "addDate": 1671763445953,
-                "title": "GitHub - doublespeakgames/adarkroom: A Dark Room - A Minimalist Text Adventure",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/doublespeakgames/adarkroom"
-              },
-              {
-                "type": "link",
-                "addDate": 1671763899999,
-                "title": "GitHub - tobspr-games/shapez.io: shapez is an open source base building game on Steam inspired by factorio!",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/tobspr-games/shapez.io"
-              },
-              {
-                "type": "link",
-                "addDate": 1671764503136,
-                "title": "GitHub - miloyip/game-programmer: A Study Path for Game Programmer",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/miloyip/game-programmer"
-              },
-              {
-                "type": "link",
-                "addDate": 1671764788608,
-                "title": "GitHub - Anuken/Mindustry: The automation tower defense RTS",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/Anuken/Mindustry"
-              },
-              {
-                "type": "link",
-                "addDate": 1671765303186,
-                "title": "GitHub - electronicarts/CnC_Remastered_Collection",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/electronicarts/CnC_Remastered_Collection"
-              },
-              {
-                "type": "link",
-                "addDate": 1671777127780,
-                "title": "GitHub - leereilly/games：GitHub 上托管的流行/很棒的视频游戏、附加组件、地图等的列表。 任何流派。 任何平台。 任何引擎。",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/leereilly/games"
-              },
-              {
-                "type": "link",
-                "addDate": 1671777335849,
-                "title": "GitHub - mozilla/BrowserQuest: A HTML5/JavaScript multiplayer game experiment",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/mozilla/BrowserQuest"
-              },
-              {
-                "type": "link",
-                "addDate": 1671778066172,
-                "title": "GitHub - scarsty/kys-cpp: 《金庸群侠传》c++复刻版，已完工",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/scarsty/kys-cpp"
-              },
-              {
-                "type": "link",
-                "addDate": 1671778238611,
-                "title": "GitHub - CytopiaTeam/Cytopia: A city building simulation game",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/CytopiaTeam/Cytopia"
-              },
-              {
-                "type": "link",
-                "addDate": 1671778338233,
-                "title": "GitHub - CleverRaven/Cataclysm-DDA: Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/CleverRaven/Cataclysm-DDA"
-              },
-              {
-                "type": "link",
-                "addDate": 1671778372852,
-                "title": "GitHub - jynew/jynew: 开源武侠RPG游戏开发框架",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/jynew/jynew"
+                "url": "https://github.com/kamranahmedse/design-patterns-for-humans"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1671763250879,
-            "title": "硬件学习",
+            "addDate": 1726278847664,
+            "title": "Stable Diffusion资料",
             "children": [
               {
                 "type": "link",
-                "addDate": 1671763234631,
-                "title": "GitHub - joeycastillo/The-Open-Book",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/joeycastillo/The-Open-Book"
-              },
+                "addDate": 1684976669884,
+                "title": "Stable Diffusion 提示詞與模型 - Google 云端硬盘",
+                "icon": "https://logo.clearbit.com/docs.google.com",
+                "url": "https://docs.google.com/spreadsheets/u/0/d/14Gg1kIGWdZGXyCC8AgYVT0lqI6IivLzZOdIT3QMWwVI/htmlview#"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278834344,
+            "title": "英语学习",
+            "children": [
               {
                 "type": "link",
-                "addDate": 1671763301392,
-                "title": "GitHub - Zhuagenborn/Plants-vs.-Zombies-Online-Battle: 🧟 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle"
-              },
+                "addDate": 1721024923336,
+                "title": "Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件",
+                "icon": "https://logo.clearbit.com/realkai42.github.io",
+                "url": "https://realkai42.github.io/qwerty-learner/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726278823502,
+            "title": "笔记软件",
+            "children": [
               {
                 "type": "link",
-                "addDate": 1671764659533,
-                "title": "GitHub - nasa-jpl/open-source-rover: A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/nasa-jpl/open-source-rover"
-              },
-              {
-                "type": "link",
-                "addDate": 1671765206264,
-                "title": "GitHub - s-matyukevich/raspberry-pi-os: Learning operating system development using Linux kernel and Raspberry Pi",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/s-matyukevich/raspberry-pi-os"
+                "addDate": 1559483437327,
+                "title": "语记",
+                "icon": "https://logo.clearbit.com/www.iyuji.cn",
+                "url": "http://www.iyuji.cn/iyuji/recordList"
               }
             ]
           },
@@ -531,41 +683,33 @@
             "type": "folder",
             "addDate": 1671764108773,
             "title": "安卓自动化",
+            "children": []
+          },
+          {
+            "type": "folder",
+            "addDate": 1726279323931,
+            "title": "树莓派",
             "children": [
               {
                 "type": "link",
-                "addDate": 1671764092816,
-                "title": "Airtest/README_zh.md at master · AirtestProject/Airtest · GitHub",
+                "addDate": 1671765206264,
+                "title": "树莓派学习指导",
                 "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/AirtestProject/Airtest/blob/master/README_zh.md"
-              },
+                "url": "https://github.com/s-matyukevich/raspberry-pi-os"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726280016531,
+            "title": "游戏开发资料",
+            "children": [
               {
                 "type": "link",
-                "addDate": 1671766088776,
-                "title": "GitHub - alipay/SoloPi: SoloPi 自动化测试工具",
+                "addDate": 1671764503136,
+                "title": "游戏开发成长之路",
                 "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/alipay/SoloPi"
-              },
-              {
-                "type": "link",
-                "addDate": 1671786978098,
-                "title": "GitHub - AirtestProject/Airtest: UI Automation Framework for Games and Apps",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/AirtestProject/Airtest"
-              },
-              {
-                "type": "link",
-                "addDate": 1671849663035,
-                "title": "kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/kamranahmedse/design-patterns-for-humans"
-              },
-              {
-                "type": "link",
-                "addDate": 1671863237372,
-                "title": "RobotiumTech/robotium: Android UI Testing",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/RobotiumTech/robotium"
+                "url": "https://github.com/miloyip/game-programmer"
               }
             ]
           }
@@ -573,402 +717,337 @@
       },
       {
         "type": "folder",
-        "addDate": 1632387518515,
-        "title": "huawei",
+        "addDate": 1726278317935,
+        "title": "游戏",
         "children": [
           {
-            "type": "folder",
-            "addDate": 1632387618418,
-            "title": "资料",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1632387637539,
-                "title": "华为博客专题-博客首页",
-                "icon": "https://logo.clearbit.com/3ms.huawei.com",
-                "url": "http://3ms.huawei.com/hi/blog?3ms_type=menu&l=zh-cn"
-              },
-              {
-                "type": "link",
-                "addDate": 1632447402411,
-                "title": "新员工指引 - W3信息发布",
-                "icon": "https://logo.clearbit.com/w3.huawei.com",
-                "url": "http://w3.huawei.com/info/cn/doc/viewDoc.do?did=9286733&cata=430303"
-              },
-              {
-                "type": "folder",
-                "addDate": 1632450928795,
-                "title": "fit",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1632450911680,
-                    "title": "FIT-使用帮助-JAVA - 王宏森的博客",
-                    "icon": "https://logo.clearbit.com/3ms.huawei.com",
-                    "url": "http://3ms.huawei.com/km/blogs/details/10401555"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1632708054602,
-                "title": "可信软件工程学院",
-                "icon": "https://logo.clearbit.com/ilearning.huawei.com",
-                "url": "http://ilearning.huawei.com/edx/subportal/portal/tseacademy?tab_name=tsea-mock&grouped_block_ids=60c336ff-2ec5-4dd9-a45f-fb4ca64d37d6,d176a29f-5758-4708-a1e9-9c7c80926675,b0fbf5f3-5dc7-4ab0-ad4e-cdd89f565b06"
-              },
-              {
-                "type": "folder",
-                "addDate": 1632900627040,
-                "title": "可信性考试资料",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1632900607659,
-                    "title": "[可信Java专业级科目三] 备考小记：一把高分通过（43错2） - 郑岩的博客",
-                    "icon": "https://logo.clearbit.com/3ms.huawei.com",
-                    "url": "http://3ms.huawei.com/km/blogs/details/8988617?l=zh-cn"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1632988409306,
-                    "title": "所有-W3搜索",
-                    "icon": "https://logo.clearbit.com/w3.huawei.com",
-                    "url": "http://w3.huawei.com/unisearch/index.html?keyword=%E5%A4%8D%E5%8D%B0#lang=zh&newKeyword=%E5%A4%8D%E5%8D%B0"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1634543407546,
-                    "title": "可信软件工程学院",
-                    "icon": "https://logo.clearbit.com/ilearning.huawei.com",
-                    "url": "http://ilearning.huawei.com/edx/subportal/portal/tseacademy?tab_name=tsea-software-development"
-                  }
-                ]
-              }
-            ]
+            "type": "link",
+            "addDate": 1726279752718,
+            "title": "小狸源码网",
+            "icon": "https://logo.clearbit.com/www.agmsy.com",
+            "url": "https://www.agmsy.com/"
           },
           {
             "type": "folder",
-            "addDate": 1632446357097,
-            "title": "日常",
+            "addDate": 1726279777716,
+            "title": "植物大战僵尸",
             "children": [
               {
                 "type": "link",
-                "addDate": 1632446335363,
-                "title": "工时填报-Times",
-                "icon": "https://logo.clearbit.com/w3.huawei.com",
-                "url": "http://w3.huawei.com/itimesweb/#!itimes/itimes/claim/newTimecard.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1632623872782,
-                "title": "出勤hr",
-                "icon": "https://logo.clearbit.com/w3.huawei.com",
-                "url": "http://w3.huawei.com/lsms/"
-              },
-              {
-                "type": "link",
-                "addDate": 1633658214404,
-                "title": "会议室",
-                "icon": "https://logo.clearbit.com/imeeting.huawei.com",
-                "url": "http://imeeting.huawei.com/ResourceInosculate/UnifyLocalSchedule"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1632446390392,
-            "title": "部门相关",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1632446363875,
-                "title": "CodeHub",
-                "icon": "https://logo.clearbit.com/codehub-g.huawei.com",
-                "url": "https://codehub-g.huawei.com/workspace/projects"
-              },
-              {
-                "type": "folder",
-                "addDate": 1635212958023,
-                "title": "伏羲",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1635212944729,
-                    "title": "FUXI-beta",
-                    "icon": "https://logo.clearbit.com/fuxi-beta.inhuawei.com",
-                    "url": "http://fuxi-beta.inhuawei.com/mine/components/all"
-                  }
-                ]
-              },
-              {
-                "type": "link",
-                "addDate": 1638776913100,
-                "title": "CloudTest-CloudDragon",
-                "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
-                "url": "https://clouddragon.huawei.com/cloudtest/project/undefined/serviceDetail/feature?serviceId=569812e450bb4fe8b79d2d94f55add4e&branchUri=004t1im5b8a&iterationUri=004t1im5b8a&initServiceId=&serviceMenu=true"
-              },
-              {
-                "type": "link",
-                "addDate": 1640572573543,
-                "title": "plink",
-                "icon": "https://logo.clearbit.com/tb.project.admin.huawei.com",
-                "url": "http://tb.project.admin.huawei.com/project/60964c63d37d010013667fcf/tasks/view/all"
-              },
-              {
-                "type": "link",
-                "addDate": 1642489284249,
-                "title": "CloudDragon",
-                "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
-                "url": "https://clouddragon.huawei.com/cloudreq-obp/project/g58da057693a542e48380fd5e8c848dcc/productSpace/businessManagement/2020630651/task"
-              },
-              {
-                "type": "link",
-                "addDate": 1642490445657,
-                "title": "项目任务",
-                "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
-                "url": "https://clouddragon.huawei.com/portal/home?edevops=true"
-              },
-              {
-                "type": "folder",
-                "addDate": 1642838030822,
-                "title": "研发工具生产线",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1642838015534,
-                    "title": "FUXI",
-                    "icon": "https://logo.clearbit.com/edevops.huawei.com",
-                    "url": "https://edevops.huawei.com/mine/components/10063071/pipeline/list/156686"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1642838861653,
-                    "title": "测试环境",
-                    "icon": "https://logo.clearbit.com/beta.edevops.huawei.com",
-                    "url": "http://beta.edevops.huawei.com/cas/login?service=http%3A%2F%2Fbeta.edevops.huawei.com%2Fmine%2Fcomponents%2F10063313%2Fpipeline%2Flist%2F156650"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1642993658009,
-                    "title": "FIT Portal",
-                    "icon": "https://logo.clearbit.com/fit-c.lab.huawei.com",
-                    "url": "http://fit-c.lab.huawei.com/#/services/list?page=ServiceDetail&tenantId=4f365c54751a456192d6728c6e132273&nodeId=ddbda3c079964a0eb5b058946b005218&serviceId=fffa29fecdc24db083e89e1bb6296610&serviceVersionName=1.0.0&typeValue=1&status=enable&tabIndex=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1644543076931,
-                    "title": "生产环境",
-                    "icon": "https://logo.clearbit.com/cf2stage.prod-szv-kunpeng-vpc-camp.tools.huawei.com",
-                    "url": "https://cf2stage.prod-szv-kunpeng-vpc-camp.tools.huawei.com/opensource/project/g4498ff6b1692429e993ff6625cf0e1ce/backup/list"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1644543091781,
-                    "title": "beta环境",
-                    "icon": "https://logo.clearbit.com/portal-gamma.edevops.huawei.com",
-                    "url": "https://portal-gamma.edevops.huawei.com/opensource/project/g4f1a0f93a5894a5591de85c0509b0c4d/backup/list"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1644975859369,
-                    "title": "生产环境",
-                    "icon": "https://logo.clearbit.com/portal.edevops.huawei.com",
-                    "url": "https://portal.edevops.huawei.com/portal/home"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1646875506129,
-                    "title": "发布文档",
-                    "icon": "https://logo.clearbit.com/onebox.huawei.com",
-                    "url": "https://onebox.huawei.com/#eSpaceGroupFile/1/19/6237768"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1649925672138,
-                "title": "CloudReq",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1649925656931,
-                    "title": "前端流水线",
-                    "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
-                    "url": "https://clouddragon.huawei.com/pipeline/details/d1d9a5accac943e5b7f465523b2a5055?serviceId=6945d3a72cdc4a62b790a43e45e92166&serviceMenu=true"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1649925681851,
-                    "title": "后端流水线",
-                    "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
-                    "url": "https://clouddragon.huawei.com/pipeline/project/gdbff49ab0d0e49da9e7edd8988e662cc/pipeline/details/1568cfdf610e43c9b7be1db2475906e8?serviceId=1ca47770a921496d8f2e3045b51cddcc&serviceMenu=true"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1649987434071,
-                    "title": "前端代码库",
-                    "icon": "https://logo.clearbit.com/codehub-g.huawei.com",
-                    "url": "https://codehub-g.huawei.com/applicationplatform/alm/cloudreq/cloudreqportal4obp/merge_requests/1454"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1649987446997,
-                    "title": "后端代码库",
-                    "icon": "https://logo.clearbit.com/codehub-g.huawei.com",
-                    "url": "https://codehub-g.huawei.com/applicationplatform/alm/cloudreq/cloudreqsvr4obp/files?ref=master"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1650090798199,
-                    "title": "前端流水线",
-                    "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
-                    "url": "https://clouddragon.huawei.com/pipeline/project/gdbff49ab0d0e49da9e7edd8988e662cc/pipeline/details/d1d9a5accac943e5b7f465523b2a5055?serviceId=6945d3a72cdc4a62b790a43e45e92166&serviceMenu=true"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1672899702977,
-                    "title": "华为云 - ServiceHub",
-                    "icon": "https://logo.clearbit.com/cf2stage.gamma-szv-kunpeng-vpc-camp.tools.huawei.com",
-                    "url": "https://cf2stage.gamma-szv-kunpeng-vpc-camp.tools.huawei.com/servicehub/devcloudcf/serviceConfig"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1673595316481,
-                    "title": "码道人 - 开发者最好的朋友",
-                    "icon": "https://logo.clearbit.com/markdowner.net",
-                    "url": "https://markdowner.net/article-editor"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1682738478311,
-                    "title": "Stable Diffusion",
-                    "icon": "https://logo.clearbit.com/localhost",
-                    "url": "http://localhost:7860/?__theme=light"
-                  }
-                ]
+                "addDate": 1652598344246,
+                "title": "植物僵尸相关下载",
+                "icon": "https://logo.clearbit.com/jspvz.com",
+                "url": "http://jspvz.com/ResDownload/1_PC_C.htm#v1.2.0.1073jq"
               }
             ]
           },
           {
             "type": "link",
-            "addDate": 1636524631737,
-            "title": "云笔记",
-            "icon": "https://logo.clearbit.com/wenote.huawei.com",
-            "url": "http://wenote.huawei.com/wapp/recent/857c12f0-1c82-11ec-9270-4d94a4593cce?docGuid=12176330-3322-11ec-9ff4-e3b9e9c6c68e"
+            "addDate": 1726280614550,
+            "title": "CMDW-游戏仓库-全球最大的游戏下载中心-游戏交流",
+            "icon": "https://logo.clearbit.com/www.cmdwgame.com",
+            "url": "https://www.cmdwgame.com/"
           },
           {
             "type": "link",
-            "addDate": 1636710927796,
-            "title": "clouddevops",
-            "icon": "https://logo.clearbit.com/tb.project.admin.huawei.com",
-            "url": "http://tb.project.admin.huawei.com/project/60964c63d37d010013667fcf/sprint/section/61459bdee6138d001aeb5101/task/614c6c2f8283c3008b64125b"
+            "addDate": 1726280633846,
+            "title": "红兔游戏交流论坛- 辅助工具_游戏下载_精品软件安卓手机软件_活动线报_源码基地_红兔论坛_redrabbitbbs.com",
+            "icon": "https://logo.clearbit.com/redrabbitbbs.com",
+            "url": "https://redrabbitbbs.com/"
           },
           {
             "type": "link",
-            "addDate": 1639735669509,
-            "title": "Jumper",
-            "icon": "https://logo.clearbit.com/rnd-jumper.inhuawei.com",
-            "url": "https://rnd-jumper.inhuawei.com/#/"
+            "addDate": 1726280644683,
+            "title": "留歌游戏 – steam单机和网盘单机合并",
+            "icon": "https://logo.clearbit.com/kkdda.cn",
+            "url": "https://kkdda.cn/"
           },
           {
             "type": "link",
-            "addDate": 1640941004306,
-            "title": "代码提交查询",
-            "icon": "https://logo.clearbit.com/scmt.rnd.huawei.com",
-            "url": "https://scmt.rnd.huawei.com/CompassWeb/codeQuery/personal"
+            "addDate": 1726280653530,
+            "title": "未知",
+            "icon": "https://logo.clearbit.com/www.yxkfw.com",
+            "url": "https://www.yxkfw.com/"
           },
           {
             "type": "link",
-            "addDate": 1647831364830,
-            "title": "华为开源镜像仓",
-            "icon": "https://logo.clearbit.com/mirrors.tools.huawei.com",
-            "url": "https://mirrors.tools.huawei.com/home"
+            "addDate": 1726280659955,
+            "title": "liuge.riyueniao.xyz",
+            "icon": "https://logo.clearbit.com/liuge.riyueniao.xyz",
+            "url": "http://liuge.riyueniao.xyz/"
           },
           {
             "type": "link",
-            "addDate": 1648524016822,
-            "title": "yapi",
-            "icon": "https://logo.clearbit.com/tinymock.cloudbu.huawei.com",
-            "url": "https://tinymock.cloudbu.huawei.com/"
+            "addDate": 1726280667709,
+            "title": "仙侠小说专有名词随机生成器",
+            "icon": "https://logo.clearbit.com/hetu.dev",
+            "url": "https://hetu.dev/random-names/"
           },
           {
             "type": "link",
-            "addDate": 1651224383817,
-            "title": "华为商城-手机内购活动时间与内购脚本-2022年4月 - 李艺为的博客",
-            "icon": "https://logo.clearbit.com/3ms.huawei.com",
-            "url": "http://3ms.huawei.com/km/blogs/details/11025531"
+            "addDate": 1726280690406,
+            "title": "Sprite 人物设计资源",
+            "icon": "https://logo.clearbit.com/sanderfrenken.github.io",
+            "url": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light"
           },
           {
             "type": "link",
-            "addDate": 1652669068673,
-            "title": "活动列表",
-            "icon": "https://logo.clearbit.com/w3.huawei.com",
-            "url": "http://w3.huawei.com/honormodle/purchase/html5/pages/index_01.html"
+            "addDate": 1726280748199,
+            "title": "像素角色生成工具",
+            "icon": "https://logo.clearbit.com/pflat.itch.io",
+            "url": "https://pflat.itch.io/lpc-character-generator"
+          },
+          {
+            "type": "link",
+            "addDate": 1726280786429,
+            "title": "H游戏 ⑱禁✘",
+            "icon": "https://logo.clearbit.com/gteam_seven.gitee.io",
+            "url": "https://gteam_seven.gitee.io/game-collection"
+          },
+          {
+            "type": "link",
+            "addDate": 1726280826423,
+            "title": "易制地图-架空世界地图、小说地图、游戏地图制作工具。",
+            "icon": "https://logo.clearbit.com/www.makeamap.cn",
+            "url": "https://www.makeamap.cn/"
           }
         ]
       },
       {
-        "type": "link",
-        "addDate": 1624846536274,
-        "title": "翻译",
-        "icon": "https://logo.clearbit.com/translate.google.com",
-        "url": "https://translate.google.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1634540718862,
-        "title": "HUAWEI Translate",
-        "icon": "https://logo.clearbit.com/translate.huawei.com",
-        "url": "https://translate.huawei.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1710322161461,
-        "title": "导航网",
-        "icon": "https://logo.clearbit.com/seven-it-work.github.io",
-        "url": "https://seven-it-work.github.io/navigation/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1713015112398,
-        "title": "通义千问",
-        "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-        "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee191LSqt&sessionId=253ad1cd099d4c858afe0779d73ef626"
-      },
-      {
-        "type": "link",
-        "addDate": 1714827137890,
-        "title": "导航网",
-        "icon": "https://logo.clearbit.com/navigation-sevenyjl1-f259d7bec56b2f9660b85cdc486687c24c979407fa.gitlab.io",
-        "url": "https://navigation-sevenyjl1-f259d7bec56b2f9660b85cdc486687c24c979407fa.gitlab.io/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1721005220007,
-        "title": "安全左移培训汇总.xlsx",
-        "icon": "https://logo.clearbit.com/onebox.huawei.com",
-        "url": "https://onebox.huawei.com/v/b6c388af77d4a22191c4330572bb5e2f?type=1&sheet=%E5%9F%B9%E8%AE%AD%E5%8F%82%E4%B8%8E%E6%83%85%E5%86%B5&time=1721005208192"
-      },
-      {
-        "type": "link",
-        "addDate": 1720853548449,
-        "title": "JETBRA.IN CHECKER | IPFS",
-        "icon": "https://logo.clearbit.com/3.jetbra.in",
-        "url": "https://3.jetbra.in/"
-      },
-      {
-        "type": "link",
-        "addDate": 1721024923336,
-        "title": "Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件",
-        "icon": "https://logo.clearbit.com/realkai42.github.io",
-        "url": "https://realkai42.github.io/qwerty-learner/"
-      },
-      {
-        "type": "link",
-        "addDate": 1725186563003,
-        "title": "导航网",
-        "icon": "https://logo.clearbit.com/seven-navigation.netlify.app",
-        "url": "https://seven-navigation.netlify.app/"
+        "type": "folder",
+        "addDate": 1726278065577,
+        "title": "工作",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1726278112263,
+            "title": "华为",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1634540718862,
+                "title": "HUAWEI Translate",
+                "icon": "https://logo.clearbit.com/translate.huawei.com",
+                "url": "https://translate.huawei.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721005220007,
+                "title": "安全左移培训汇总.xlsx",
+                "icon": "https://logo.clearbit.com/onebox.huawei.com",
+                "url": "https://onebox.huawei.com/v/b6c388af77d4a22191c4330572bb5e2f?type=1&sheet=%E5%9F%B9%E8%AE%AD%E5%8F%82%E4%B8%8E%E6%83%85%E5%86%B5&time=1721005208192"
+              },
+              {
+                "type": "folder",
+                "addDate": 1632387618418,
+                "title": "资料",
+                "children": []
+              },
+              {
+                "type": "folder",
+                "addDate": 1632446357097,
+                "title": "日常",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1632446335363,
+                    "title": "工时填报-Times",
+                    "icon": "https://logo.clearbit.com/w3.huawei.com",
+                    "url": "http://w3.huawei.com/itimesweb/#!itimes/itimes/claim/newTimecard.html"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1632623872782,
+                    "title": "出勤hr 老系统",
+                    "icon": "https://logo.clearbit.com/w3.huawei.com",
+                    "url": "http://w3.huawei.com/lsms/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1633658214404,
+                    "title": "会议室",
+                    "icon": "https://logo.clearbit.com/imeeting.huawei.com",
+                    "url": "http://imeeting.huawei.com/ResourceInosculate/UnifyLocalSchedule"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726279503503,
+                    "title": "OMP | OD考勤管理",
+                    "icon": "https://logo.clearbit.com/w3.huawei.com",
+                    "url": "https://w3.huawei.com/odas#/components/outCommUser/HomePage"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1726280895834,
+                    "title": "行政之窗",
+                    "icon": "https://logo.clearbit.com/xinsheng.huawei.com",
+                    "url": "https://xinsheng.huawei.com/next/index/#/list?id=713534611705233408&cid=713570454708776960&flag=all&search=&sort=createTime&type=all&p=1"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1632446390392,
+                "title": "部门相关",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1632446363875,
+                    "title": "CodeHub",
+                    "icon": "https://logo.clearbit.com/codehub-g.huawei.com",
+                    "url": "https://codehub-g.huawei.com/workspace/projects"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1635212958023,
+                    "title": "伏羲",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1635212944729,
+                        "title": "FUXI-beta",
+                        "icon": "https://logo.clearbit.com/fuxi-beta.inhuawei.com",
+                        "url": "http://fuxi-beta.inhuawei.com/mine/components/all"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1642838030822,
+                    "title": "研发工具生产线",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1642838015534,
+                        "title": "FUXI",
+                        "icon": "https://logo.clearbit.com/edevops.huawei.com",
+                        "url": "https://edevops.huawei.com/mine/components/10063071/pipeline/list/156686"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1642838861653,
+                        "title": "测试环境",
+                        "icon": "https://logo.clearbit.com/beta.edevops.huawei.com",
+                        "url": "http://beta.edevops.huawei.com/cas/login?service=http%3A%2F%2Fbeta.edevops.huawei.com%2Fmine%2Fcomponents%2F10063313%2Fpipeline%2Flist%2F156650"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1642993658009,
+                        "title": "FIT Portal",
+                        "icon": "https://logo.clearbit.com/fit-c.lab.huawei.com",
+                        "url": "http://fit-c.lab.huawei.com/#/services/list?page=ServiceDetail&tenantId=4f365c54751a456192d6728c6e132273&nodeId=ddbda3c079964a0eb5b058946b005218&serviceId=fffa29fecdc24db083e89e1bb6296610&serviceVersionName=1.0.0&typeValue=1&status=enable&tabIndex=1"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1644543076931,
+                        "title": "生产环境",
+                        "icon": "https://logo.clearbit.com/cf2stage.prod-szv-kunpeng-vpc-camp.tools.huawei.com",
+                        "url": "https://cf2stage.prod-szv-kunpeng-vpc-camp.tools.huawei.com/opensource/project/g4498ff6b1692429e993ff6625cf0e1ce/backup/list"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1644543091781,
+                        "title": "beta环境",
+                        "icon": "https://logo.clearbit.com/portal-gamma.edevops.huawei.com",
+                        "url": "https://portal-gamma.edevops.huawei.com/opensource/project/g4f1a0f93a5894a5591de85c0509b0c4d/backup/list"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1644975859369,
+                        "title": "生产环境",
+                        "icon": "https://logo.clearbit.com/portal.edevops.huawei.com",
+                        "url": "https://portal.edevops.huawei.com/portal/home"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1646875506129,
+                        "title": "发布文档",
+                        "icon": "https://logo.clearbit.com/onebox.huawei.com",
+                        "url": "https://onebox.huawei.com/#eSpaceGroupFile/1/19/6237768"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1649925672138,
+                    "title": "CloudReq",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1649925656931,
+                        "title": "前端流水线",
+                        "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
+                        "url": "https://clouddragon.huawei.com/pipeline/details/d1d9a5accac943e5b7f465523b2a5055?serviceId=6945d3a72cdc4a62b790a43e45e92166&serviceMenu=true"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1649925681851,
+                        "title": "后端流水线",
+                        "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
+                        "url": "https://clouddragon.huawei.com/pipeline/project/gdbff49ab0d0e49da9e7edd8988e662cc/pipeline/details/1568cfdf610e43c9b7be1db2475906e8?serviceId=1ca47770a921496d8f2e3045b51cddcc&serviceMenu=true"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1649987434071,
+                        "title": "前端代码库",
+                        "icon": "https://logo.clearbit.com/codehub-g.huawei.com",
+                        "url": "https://codehub-g.huawei.com/applicationplatform/alm/cloudreq/cloudreqportal4obp/merge_requests/1454"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1649987446997,
+                        "title": "后端代码库",
+                        "icon": "https://logo.clearbit.com/codehub-g.huawei.com",
+                        "url": "https://codehub-g.huawei.com/applicationplatform/alm/cloudreq/cloudreqsvr4obp/files?ref=master"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1650090798199,
+                        "title": "前端流水线",
+                        "icon": "https://logo.clearbit.com/clouddragon.huawei.com",
+                        "url": "https://clouddragon.huawei.com/pipeline/project/gdbff49ab0d0e49da9e7edd8988e662cc/pipeline/details/d1d9a5accac943e5b7f465523b2a5055?serviceId=6945d3a72cdc4a62b790a43e45e92166&serviceMenu=true"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1672899702977,
+                        "title": "华为云 - ServiceHub",
+                        "icon": "https://logo.clearbit.com/cf2stage.gamma-szv-kunpeng-vpc-camp.tools.huawei.com",
+                        "url": "https://cf2stage.gamma-szv-kunpeng-vpc-camp.tools.huawei.com/servicehub/devcloudcf/serviceConfig"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1673595316481,
+                        "title": "码道人 - 开发者最好的朋友",
+                        "icon": "https://logo.clearbit.com/markdowner.net",
+                        "url": "https://markdowner.net/article-editor"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1682738478311,
+                        "title": "Stable Diffusion",
+                        "icon": "https://logo.clearbit.com/localhost",
+                        "url": "http://localhost:7860/?__theme=light"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1726279496515,
+                    "title": "JDC",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1703587970417,
+            "title": "打卡",
+            "icon": "https://logo.clearbit.com/",
+            "url": "file:///D:/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/%E6%89%93%E5%8D%A1%E8%AE%B0%E5%BD%95web/web2.0/dist/index.html"
+          }
+        ]
       }
     ]
   },
@@ -976,49 +1055,6 @@
     "type": "folder",
     "addDate": 1671434129105,
     "title": "其他书签",
-    "children": [
-      {
-        "type": "link",
-        "addDate": 1617258894569,
-        "title": "GitHub - fleapx/cdh-deploy-robot",
-        "icon": "https://logo.clearbit.com/github.com",
-        "url": "https://github.com/fleapx/cdh-deploy-robot"
-      },
-      {
-        "type": "link",
-        "addDate": 1637463368538,
-        "title": "file:/E:/aaa-project/games/study/game02/src/main/java/com/seven/game02/AnimationComponent.java",
-        "icon": "https://logo.clearbit.com/",
-        "url": "file:///E:/aaa-project/games/study/game02/src/main/java/com/seven/game02/AnimationComponent.java"
-      },
-      {
-        "type": "link",
-        "addDate": 1684976669884,
-        "title": "Stable Diffusion 提示詞與模型 - Google 云端硬盘",
-        "icon": "https://logo.clearbit.com/docs.google.com",
-        "url": "https://docs.google.com/spreadsheets/u/0/d/14Gg1kIGWdZGXyCC8AgYVT0lqI6IivLzZOdIT3QMWwVI/htmlview#"
-      },
-      {
-        "type": "link",
-        "addDate": 1702201227410,
-        "title": "4k电影网",
-        "icon": "https://logo.clearbit.com/webhd.top",
-        "url": "https://webhd.top/"
-      },
-      {
-        "type": "link",
-        "addDate": 1703587970417,
-        "title": "打卡",
-        "icon": "https://logo.clearbit.com/",
-        "url": "file:///D:/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/%E6%89%93%E5%8D%A1%E8%AE%B0%E5%BD%95web/web2.0/dist/index.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1706618344039,
-        "title": "新标签页",
-        "icon": "https://logo.clearbit.com/newtab",
-        "url": "chrome://newtab/"
-      }
-    ]
+    "children": []
   }
 ]
